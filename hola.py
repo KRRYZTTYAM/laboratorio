@@ -1,5 +1,4 @@
-print("HOLA MUNDO")
-
+print("HOLA MUN
 
 
 
